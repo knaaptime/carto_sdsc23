@@ -1,0 +1,27 @@
+name: carto_sdsc23
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python =3.11
+  - mamba
+  - bokeh
+  - pip
+  - geopandas
+  - descartes
+  - folium
+  - ipywidgets
+  - jupyterlab
+  - pysal
+  - nbconvert
+  - networkx
+  - scikit-learn
+  - seaborn
+  - statsmodels
+  - hvplot
+  - holoviews
+  - geoviews
+  - watermark
+  - rasterio
+  - contextily
+  - geosnap
