@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/knaaptime/pysal_carto_sdss/main?urlpath=lab)
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/knaaptime/pysal_carto_sdss)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/knaaptime/carto_sdsc23)
 
 workshop on spatial data science with Python delivered at CARTO SDSC 2023
 
