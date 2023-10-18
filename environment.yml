@@ -25,3 +25,5 @@ dependencies:
   - rasterio
   - contextily
   - geosnap
+  - pandana
+  - h3-py
